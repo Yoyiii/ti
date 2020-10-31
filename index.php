@@ -40,7 +40,7 @@
                     <div class="form-group">
                         <input class="form-control button" type="submit" name="login" value="Login">
                     </div>
-                    <div class="link login-link text-center">Not yet a member? 
+                    <div class="link login-link text-center"><a href="signup-user.php">Not yet a member?</a>
                      <!-- <a href="signup-user.php">Signup now</a> -->
                   </div>
                 </form>

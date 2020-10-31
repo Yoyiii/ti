@@ -35,13 +35,13 @@
                         <input class="form-control" type="password" name="password" placeholder="Password" required>
                     </div>
                     <div class="link forget-pass text-left">
-                      <!-- <a href="forgot-password.php">Forgot password?</a> -->
+                        <a href="forgot-password.php">Forgot password?</a>
                     </div>
                     <div class="form-group">
                         <input class="form-control button" type="submit" name="login" value="Login">
                     </div>
                     <div class="link login-link text-center"><a href="signup-user.php">Not yet a member?</a>
-                     <!-- <a href="signup-user.php">Signup now</a> -->
+                     <a href="signup-user.php">Signup now</a>
                   </div>
                 </form>
             </div>
